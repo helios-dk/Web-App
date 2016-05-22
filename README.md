@@ -13,3 +13,6 @@ Workflow:
 This is the UI for the app:
 
 https://www.fluidui.com/editor/live/preview/p_QIZfTUXiWOhlAkGI2PS9L15TZExzdOTG.1463931572318
+
+
+Made using XAMP, phpMyadmin(MySQL), Notepad++.
