@@ -8,3 +8,8 @@ Workflow:
 4. Submit button will enter the details in another table.
 5. Summary button will show the entered details only for the respective interviewee(in work, fetching the data from the previous table).
 6. Result button will compile the result from this table and all the scores will add up to give the rank(in work).
+
+
+This is the UI for the app:
+
+https://www.fluidui.com/editor/live/preview/p_QIZfTUXiWOhlAkGI2PS9L15TZExzdOTG.1463931572318
