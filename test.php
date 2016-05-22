@@ -28,6 +28,7 @@ function display(){
 					</select><br><br>
 			<input type='submit' name='submit' value='Submit' onclick='display()'>
 			<input type='button' name='summary' value='Summary' onclick=''>
+			<input type='button' name='result' value='Result' onclick=''>
 		</form>
 	<?php
 	session_start();
